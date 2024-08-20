@@ -17,4 +17,4 @@ O repositório está estruturado da seguinte forma:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/projetos-bootcamp-dio.git
+   git clone https://github.com/Mateusf95/dio-trilha-java.git
