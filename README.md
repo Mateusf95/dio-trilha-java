@@ -12,6 +12,8 @@ O repositório está estruturado da seguinte forma:
 
 - **`Projeto1/`**: Desafio Banco Terminal - 2.
 - **`Condicionais/`**: Estruturas condicionais - if-else | switch-case | ternário.
+- **`Estruturas de repetições/`**: Estruturas de Repetições - for | while | do-while.
+- **`Exceções/`**: Tratamento de Exceções - try-catch | Exceções customizadas.
 
 
 ## Instruções Gerais
