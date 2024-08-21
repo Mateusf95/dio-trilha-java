@@ -11,6 +11,7 @@ O BootCamp da DIO é uma oportunidade para aprender e aplicar habilidades de pro
 O repositório está estruturado da seguinte forma:
 
 - **`Projeto1/`**: Desafio Banco Terminal - 2.
+- **`Condicionais/`**: Estruturas condicionais - if-else | switch-case | ternário.
 
 
 ## Instruções Gerais
