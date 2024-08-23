@@ -10,10 +10,12 @@ O BootCamp da DIO é uma oportunidade para aprender e aplicar habilidades de pro
 
 O repositório está estruturado da seguinte forma:
 
-- **`Projeto1/`**: Desafio Banco Terminal - 2.
+- **`Projeto - 1/`**: Desafio Banco Terminal - 2.
 - **`Condicionais/`**: Estruturas condicionais - if-else | switch-case | ternário.
 - **`Estruturas de repetições/`**: Estruturas de Repetições - for | while | do-while.
 - **`Exceções/`**: Tratamento de Exceções - try-catch | Exceções customizadas.
+- **`Processo Seletivo/`**: Uma atividade preparativa para o projeto 2.
+- **`Projeto - 2/`**: Um projeto que recebe dois parâmetros e faz uma contagem - Tratamento de Exceções | Lógica de Programação.
 
 
 ## Instruções Gerais
