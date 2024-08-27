@@ -16,6 +16,7 @@ O repositório está estruturado da seguinte forma:
 - **`Exceções/`**: Tratamento de Exceções - try-catch | Exceções customizadas.
 - **`Processo Seletivo/`**: Uma atividade preparativa para o projeto 2.
 - **`Projeto - 2/`**: Um projeto que recebe dois parâmetros e faz uma contagem - Tratamento de Exceções | Lógica de Programação.
+- **`Projeto - 3/`**: UML + implementação 1º Iphone = Interfaces | packages.
 
 
 ## Instruções Gerais
